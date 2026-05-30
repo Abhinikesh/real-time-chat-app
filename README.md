@@ -17,20 +17,6 @@
 
 ---
 
-</div>
-
-## 📸 Screenshots
-
-<div align="center">
-
-| Login / Register | Chat Interface |
-|:---:|:---:|
-| ![Login](./screenshots/login.png) | ![Chat](./screenshots/chat.png) |
-
-</div>
-
----
-
 ## ✨ Features
 
 | Feature | Description |
@@ -63,7 +49,6 @@
 
 ---
 
-## 📁 Project Structure
 ## 🔌 Socket.IO Events
 
 | Event | Direction | Description |
@@ -85,36 +70,6 @@
 | MongoDB not connecting | Run `mongod` and verify it's active |
 | Socket not connecting | Confirm server is running on port `5000` |
 | Messages not appearing | Check browser console for Socket.IO errors |
-
----
-
-## 🔮 Roadmap
-
-- [ ] Group chats with multiple users
-- [ ] File & media sharing
-- [ ] Message reactions and emoji picker
-- [ ] Push notifications for offline users
-- [ ] End-to-end message encryption
-- [ ] Voice and video calls
-- [ ] Message search and filtering
-- [ ] User profile pages and custom status
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-# Create a feature branch
-git checkout -b feature/YourFeature
-
-# Commit your changes
-git commit -m "Add YourFeature"
-
-# Push and open a PR
-git push origin feature/YourFeature
-```
 
 ---
 
